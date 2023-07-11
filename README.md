@@ -1,7 +1,7 @@
-### Hi there 👋 I am Youming
+### Hi there 👋, I am Youming
 
 - 🔭 I’m currently working on graphics and 3d vision
-- 📫 How to reach me: See my [homepage](https://denghilbert.github.io/)
+
 
 <!--![info](https://github-readme-stats.vercel.app/api?username=denghilbert&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+- 📫 How to reach me: See my [homepage](https://denghilbert.github.io/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
