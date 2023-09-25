@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on graphics and 3d vision
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denghilbert&hide=contribs,prs)
 
 <!--![info](https://github-readme-stats.vercel.app/api?username=denghilbert&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
